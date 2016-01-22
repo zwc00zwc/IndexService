@@ -1,0 +1,10 @@
+E:\zhengwc\IndexService\IndexService\bin\Release\IndexService.exe.config
+E:\zhengwc\IndexService\IndexService\bin\Release\IndexService.exe
+E:\zhengwc\IndexService\IndexService\bin\Release\IndexService.pdb
+E:\zhengwc\IndexService\IndexService\bin\Release\Common.Logging.dll
+E:\zhengwc\IndexService\IndexService\bin\Release\Quartz.dll
+E:\zhengwc\IndexService\IndexService\obj\Release\IndexService.exe
+E:\zhengwc\IndexService\IndexService\obj\Release\IndexService.pdb
+E:\zhengwc\IndexService\IndexService\obj\Release\IndexService.csprojResolveAssemblyReference.cache
+E:\zhengwc\IndexService\IndexService\obj\Release\IndexService.ProjectInstaller.resources
+E:\zhengwc\IndexService\IndexService\obj\Release\IndexService.csproj.GenerateResource.Cache
